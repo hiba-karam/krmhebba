@@ -28,12 +28,11 @@ CPGE Lycée Mohamed V, Casablanca · Sep 2022 – Juin 2023
 ---
 
 ## Expérience
+**Coordinatrice des Délégués — EMSI** *(Oct 2025 – Présent)*
+Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
 **Stagiaire Développeuse IA & Chatbot — Attijariwafa Bank** *(Sep 2025 · 1 mois)*
 Conception et développement d'un chatbot de A à Z en Python et Flask, intégrant un LLM et une interface web interactive. Initiation Agile au sein du Digital Center d'innovation.
-
-**Coordinatrice des Délégués — EMSI** *(Oct 2025 – Présent)*
-Coordination de l'ensemble des représentants étudiants de la filière. Relais structuré entre promotions et administration.
 
 **Tutrice — EMSI LEVEL UP** *(Juil 2025 – Présent)*
 Accompagnement personnalisé d'étudiants en algorithmique, POO et développement web. Conception d'exercices adaptés et préparation aux examens.
